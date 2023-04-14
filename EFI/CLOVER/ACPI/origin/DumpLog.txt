@@ -1,0 +1,74 @@
+19:512  0:088  Found BIOS RSDP at f0120
+19:512  0:000  Printing ACPI tables from RSDP f0120 ...
+19:512  0:000   f0120: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+19:512  0:000    (Xsdt: daffe170, Rsdt: daffe0d4)
+19:512  0:000    daffe170: 'XSDT', 'LH43STAR', Rev: 1, Len: 156
+19:512  0:000    daffe0d4: 'RSDT', 'LH43STAR', Rev: 1, Len: 96
+19:512  0:000    Tables in Xsdt: 15
+19:512  0:000    0. dafee000: 'FACP', 'LH43STAR', Rev: 5, Len: 268
+19:512  0:000        (Dsdt: DAFF1000, Facs: DAF7C000, XDsdt: daff1000, XFacs: 0)
+19:512  0:000        daff1000: 'DSDT', 'IVB-CPT', Rev: 2, Len: 38568
+19:512  0:000        daf7c000: 'FACS', Ver: 2, Len: 64
+19:512  0:000    1. daffd000: 'SLIC', 'LH43STAR', Rev: 1, Len: 374
+19:512  0:000    2. daffb000: 'SSDT', 'PtidDevc', Rev: 1, Len: 4200
+19:512  0:000    3. daff0000: 'ASF!', 'LH43STAR', Rev: 32, Len: 165
+19:512  0:000    4. dafed000: 'HPET', 'LH43STAR', Rev: 1, Len: 56
+19:512  0:000    5. dafec000: 'APIC', 'LH43STAR', Rev: 3, Len: 152
+19:512  0:000    6. dafeb000: 'MCFG', 'LH43STAR', Rev: 1, Len: 60
+19:512  0:000    7. dafea000: 'FPDT', 'LH43STAR', Rev: 1, Len: 100
+19:512  0:000    8. dafe9000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2442
+19:512  0:000    9. dafe8000: 'SSDT', 'CpuPm', Rev: 1, Len: 2741
+19:512  0:000    10. dafe7000: 'UEFI', 'COMBUF', Rev: 1, Len: 66
+19:512  0:000    11. daf79000: 'MSDM', 'LH43STAR', Rev: 3, Len: 85
+19:512  0:000    12. dafe6000: 'UEFI', 'LH43STAR', Rev: 1, Len: 62
+19:512  0:000    13. dafe5000: 'UEFI', 'LH43STAR', Rev: 1, Len: 638
+19:512  0:000    14. dafe4000: 'BGRT', 'LH43STAR', Rev: 0, Len: 56
+19:512  0:000  Found UEFI Acpi 2.0 RSDP at daffe014
+19:512  0:000  Saving ACPI tables from RSDP daffe014 to ACPI\origin ...
+19:512  0:000   daffe014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+19:512  0:000    (Xsdt: daffe170, Rsdt: daffe0d4)
+19:512  0:000    daffe170: 'XSDT', 'LH43STAR', Rev: 1, Len: 156
+19:512  0:000    daffe0d4: 'RSDT', 'LH43STAR', Rev: 1, Len: 96
+19:512  0:000    Tables in Xsdt: 15
+19:512  0:000    0. dafee000: 'FACP', 'LH43STAR', Rev: 5, Len: 268
+19:512  0:000        (Dsdt: DAFF1000, Facs: DAF7C000, XDsdt: daff1000, XFacs: 0)
+19:512  0:000        daff1000: 'DSDT', 'IVB-CPT', Rev: 2, Len: 38568
+19:512  0:000        daf7c000: 'FACS', Ver: 2, Len: 64
+19:512  0:000    1. daffd000: 'SLIC', 'LH43STAR', Rev: 1, Len: 374
+19:512  0:000    2. daffb000: 'SSDT', 'PtidDevc', Rev: 1, Len: 4200
+19:512  0:000    3. daff0000: 'ASF!', 'LH43STAR', Rev: 32, Len: 165
+19:512  0:000    4. dafed000: 'HPET', 'LH43STAR', Rev: 1, Len: 56
+19:512  0:000    5. dafec000: 'APIC', 'LH43STAR', Rev: 3, Len: 152
+19:512  0:000    6. dafeb000: 'MCFG', 'LH43STAR', Rev: 1, Len: 60
+19:512  0:000    7. dafea000: 'FPDT', 'LH43STAR', Rev: 1, Len: 100
+19:512  0:000    8. dafe9000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2442
+19:512  0:000    9. dafe8000: 'SSDT', 'CpuPm', Rev: 1, Len: 2741
+19:512  0:000    10. dafe7000: 'UEFI', 'COMBUF', Rev: 1, Len: 66
+19:512  0:000    11. daf79000: 'MSDM', 'LH43STAR', Rev: 3, Len: 85
+19:512  0:000    12. dafe6000: 'UEFI', 'LH43STAR', Rev: 1, Len: 62
+19:512  0:000    13. dafe5000: 'UEFI', 'LH43STAR', Rev: 1, Len: 638
+19:512  0:000    14. dafe4000: 'BGRT', 'LH43STAR', Rev: 0, Len: 56
+19:512  0:000  Found UEFI Acpi 1.0 RSDP at daffe000
+19:512  0:000  Printing ACPI tables from RSDP daffe000 ...
+19:512  0:000   daffe000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+19:512  0:000    (Rsdt: daffe038)
+19:512  0:000    daffe038: 'RSDT', 'LH43STAR', Rev: 1, Len: 96
+19:512  0:000    Tables in Rsdt: 15
+19:512  0:000    0. dafef000: 'FACP', 'LH43STAR', Rev: 1, Len: 116
+19:512  0:000        (Dsdt: DAFF1000, Facs: DAF7C000)
+19:512  0:000        daff1000: 'DSDT', 'IVB-CPT', Rev: 2, Len: 38568
+19:512  0:000        daf7c000: 'FACS', Ver: 2, Len: 64
+19:512  0:000    1. daffd000: 'SLIC', 'LH43STAR', Rev: 1, Len: 374
+19:512  0:000    2. daffb000: 'SSDT', 'PtidDevc', Rev: 1, Len: 4200
+19:512  0:000    3. daff0000: 'ASF!', 'LH43STAR', Rev: 32, Len: 165
+19:512  0:000    4. dafed000: 'HPET', 'LH43STAR', Rev: 1, Len: 56
+19:512  0:000    5. dafec000: 'APIC', 'LH43STAR', Rev: 3, Len: 152
+19:512  0:000    6. dafeb000: 'MCFG', 'LH43STAR', Rev: 1, Len: 60
+19:512  0:000    7. dafea000: 'FPDT', 'LH43STAR', Rev: 1, Len: 100
+19:512  0:000    8. dafe9000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2442
+19:512  0:000    9. dafe8000: 'SSDT', 'CpuPm', Rev: 1, Len: 2741
+19:512  0:000    10. dafe7000: 'UEFI', 'COMBUF', Rev: 1, Len: 66
+19:512  0:000    11. daf79000: 'MSDM', 'LH43STAR', Rev: 3, Len: 85
+19:512  0:000    12. dafe6000: 'UEFI', 'LH43STAR', Rev: 1, Len: 62
+19:512  0:000    13. dafe5000: 'UEFI', 'LH43STAR', Rev: 1, Len: 638
+19:512  0:000    14. dafe4000: 'BGRT', 'LH43STAR', Rev: 0, Len: 56
